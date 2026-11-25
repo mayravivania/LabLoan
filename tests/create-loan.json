@@ -1,0 +1,9 @@
+{
+  "requestContext": {
+    "http": {
+      "method": "POST"
+    }
+  },
+  "rawPath": "/loans",
+  "body": "{\"borrower_name\":\"Mahasiswa A\",\"borrower_id\":\"MHS001\",\"equipment_name\":\"Multimeter\",\"quantity\":2,\"purpose\":\"Praktikum Elektronika\",\"loan_date\":\"2026-11-25\",\"due_date\":\"2026-11-28\"}"
+}

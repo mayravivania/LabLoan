@@ -1,0 +1,9 @@
+{
+  "requestContext": {
+    "http": {
+      "method": "POST"
+    }
+  },
+  "rawPath": "/loans",
+  "body": "{\"borrower_name\":\"Mahasiswa B\",\"borrower_id\":\"MHS002\",\"equipment_name\":\"Arduino Uno\",\"quantity\":-1,\"purpose\":\"Praktikum\",\"loan_date\":\"2026-11-25\",\"due_date\":\"2026-11-28\"}"
+}

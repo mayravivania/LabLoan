@@ -1,0 +1,9 @@
+{
+  "requestContext": {
+    "http": {
+      "method": "PUT"
+    }
+  },
+  "rawPath": "/loans/YOUR-LOAN-ID",
+  "body": "{\"status\":\"Borrowed\"}"
+}

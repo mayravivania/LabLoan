@@ -1,0 +1,8 @@
+{
+  "requestContext": {
+    "http": {
+      "method": "DELETE"
+    }
+  },
+  "rawPath": "/loans/YOUR-LOAN-ID"
+}
