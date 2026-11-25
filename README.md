@@ -80,9 +80,3 @@ ID peminjaman dibuat secara otomatis menggunakan UUID untuk menghindari duplikas
 5. Melakukan deployment kode backend.
 6. Membuat Lambda Function URL dengan autentikasi AWS_IAM.
 7. Melakukan pengujian API menggunakan Postman.
-
-## Ruang Lingkup Proyek
-
-Pada Week 12, proyek berfokus pada perancangan arsitektur, konfigurasi awal infrastruktur AWS, pengujian konektivitas antar-layanan, serta pengujian operasi CRUD.
-
-Fitur autentikasi pengguna aplikasi, pengelolaan stok peralatan, dan penanganan transaksi peminjaman secara bersamaan belum termasuk dalam ruang lingkup prototipe awal.
